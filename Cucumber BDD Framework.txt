@@ -1,0 +1,26 @@
+Feature file - Automation
+User story - Manual testing
+
+BDD(Behaviour Data Driven) Automation - Framework
+|
+|--- features
+|     (Login.feature)
+|
+|---step-definitions
+|      (Loginsteps.js)
+|
+|---pages
+|     (loginPage.js)
+
+
+
+
+1)Feature file - (readable format) plain English using (Gherkin language - Given, When, Then) i will write what i will do in application.
+Feature File - What to do?
+
+2)Step definition -(executable format) Automation code - Plain English (Feature file) is converted into function.
+(Step definition is the code that converts Gherkins steps into executable automation code) 
+(Step definition - How to do?)
+
+3)Page Object model(POM) - 
+
