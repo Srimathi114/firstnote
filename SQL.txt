@@ -1,0 +1,5 @@
+SQL 
+
+Presentation layer- UI testing (Tool : Playwright)
+Business Layer - API testing (Tool :Postman, RestAssured)
+Database Layer - Query Language [SQL, MySQL, Mongo DB(database)]
