@@ -31,5 +31,10 @@ test('mynthra price minimum', async ({ page }) => {
 
 });
 
+console.log("sree");
+lllll
 
 
+ggggggg
+
+ss
