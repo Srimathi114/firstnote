@@ -31,3 +31,5 @@ test('mynthra price minimum', async ({ page }) => {
 
 
 console.log("gitcheck up")
+
+ggg
