@@ -27,9 +27,9 @@ test('mynthra price minimum', async ({ page }) => {
 
     const minPrice = Math.min(...prices);
     console.log("Minimum Price:", minPrice);
-
-
 });
 
 console.log("sree");
 
+
+console.log("gitcheck up")
